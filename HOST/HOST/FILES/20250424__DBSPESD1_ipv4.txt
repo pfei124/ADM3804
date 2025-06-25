@@ -1,8 +1,0 @@
-    inet 127.0.0.1/8 scope host lo
-    inet 10.16.85.79/27 brd 10.16.85.95 scope global eth0
-    inet 10.16.85.72/27 brd 10.16.85.95 scope global secondary eth0:pocl7
-    inet 10.16.85.70/27 brd 10.16.85.95 scope global secondary eth0:pesd1
-    inet 10.16.85.68/27 brd 10.16.85.95 scope global secondary eth0:repm
-    inet 10.16.85.76/27 brd 10.16.85.95 scope global secondary eth0:odsm
-    inet 172.25.251.150/28 brd 172.25.251.159 scope global eth1
-    inet 172.23.26.67/29 brd 172.23.26.71 scope global eth2

@@ -1,3 +1,0 @@
-    inet 127.0.0.1/8 scope host lo
-    inet 10.245.0.196/27 brd 10.245.0.223 scope global eth0
-    inet 10.75.253.36/27 brd 10.75.253.63 scope global eth1
