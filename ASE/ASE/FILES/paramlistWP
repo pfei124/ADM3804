@@ -1,0 +1,38 @@
+number of alarms
+number of aux scan descriptors
+number of backup connections
+number of cached stmt spinlock
+number of ccbs
+number of checkpoint tasks
+number of devices
+number of disk tasks
+number of dtx participants
+number of dump load retries
+number of dump threads
+number of early send rows
+number of engines at startup
+number of hcb gc tasks per db
+number of histogram steps
+number of imrs gc tasks per db
+number of index trips
+number of java sockets
+number of large i/o buffers
+number of lob gc tasks per db
+number of locks
+number of mailboxes
+number of messages
+number of network tasks
+number of oam trips
+number of open databases
+number of open indexes
+number of open objects
+number of open partitions
+number of pack tasks per db
+number of pre-allocated extents
+number of reexecutions
+number of remote connections
+number of remote logins
+number of remote sites
+number of sort buffers
+number of user connections
+number of worker processes

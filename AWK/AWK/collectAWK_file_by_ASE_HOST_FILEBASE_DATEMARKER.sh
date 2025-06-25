@@ -1,0 +1,12 @@
+#!/bin/bash
+ASE="$1"
+HOST="$2"
+FILEBASE="$3"
+DATEMARKER="$4"
+
+
+FILENAME="${DATEMARKER}__${ASE}_${FILEBASE}"
+
+scp ${HOST}:/WORK/DUMP/${ASE}/wp/AWK/${FILENAME} FILES/${FILENAME}
+
+exit 0

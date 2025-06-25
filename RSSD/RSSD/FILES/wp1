@@ -1,0 +1,167 @@
+RSSIODS1 Configuration: workload
+RSSIODS1 Config Value:  NULL
+RSSIODS1 Run Value:     NULL
+RSSIODS1 Default Value: NULL
+RSSIODS1 Legal Values:  list: SuiteOnAse=Small
+RSSIODS1 Datatype:      string
+RSSIODS1 Status:        Restart required
+--
+RSSIODS3 Configuration: workload
+RSSIODS3 Config Value:  NULL
+RSSIODS3 Run Value:     NULL
+RSSIODS3 Default Value: NULL
+RSSIODS3 Legal Values:  list: SuiteOnAse=Small
+RSSIODS3 Datatype:      string
+RSSIODS3 Status:        Restart required
+--
+RSSIODS4 Configuration: workload
+RSSIODS4 Config Value:  NULL
+RSSIODS4 Run Value:     NULL
+RSSIODS4 Default Value: NULL
+RSSIODS4 Legal Values:  list: SuiteOnAse=Small
+RSSIODS4 Datatype:      string
+RSSIODS4 Status:        Restart required
+--
+RSSIODS5 Configuration: workload
+RSSIODS5 Config Value:  NULL
+RSSIODS5 Run Value:     NULL
+RSSIODS5 Default Value: NULL
+RSSIODS5 Legal Values:  list: SuiteOnAse=Small
+RSSIODS5 Datatype:      string
+RSSIODS5 Status:        Restart required
+--
+RSSIODSM Configuration: workload
+RSSIODSM Config Value:  NULL
+RSSIODSM Run Value:     NULL
+RSSIODSM Default Value: NULL
+RSSIODSM Legal Values:  list: SuiteOnAse=Small
+RSSIODSM Datatype:      string
+RSSIODSM Status:        Restart required
+--
+RSSIODSN Configuration: workload
+RSSIODSN Config Value:  NULL
+RSSIODSN Run Value:     NULL
+RSSIODSN Default Value: NULL
+RSSIODSN Legal Values:  list: SuiteOnAse=Small
+RSSIODSN Datatype:      string
+RSSIODSN Status:        Restart required
+--
+RSSIREPM Configuration: workload
+RSSIREPM Config Value:  NULL
+RSSIREPM Run Value:     NULL
+RSSIREPM Default Value: NULL
+RSSIREPM Legal Values:  list: SuiteOnAse=Small
+RSSIREPM Datatype:      string
+RSSIREPM Status:        Restart required
+--
+RSSIRMS1 Configuration: workload
+RSSIRMS1 Config Value:  NULL
+RSSIRMS1 Run Value:     NULL
+RSSIRMS1 Default Value: NULL
+RSSIRMS1 Legal Values:  list: SuiteOnAse=Small
+RSSIRMS1 Datatype:      string
+RSSIRMS1 Status:        Restart required
+--
+RSSISME1 Configuration: workload
+RSSISME1 Config Value:  NULL
+RSSISME1 Run Value:     NULL
+RSSISME1 Default Value: NULL
+RSSISME1 Legal Values:  list: SuiteOnAse=Small
+RSSISME1 Datatype:      string
+RSSISME1 Status:        Restart required
+--
+RSSPARI3 Configuration: workload
+RSSPARI3 Config Value:  NULL
+RSSPARI3 Run Value:     NULL
+RSSPARI3 Default Value: NULL
+RSSPARI3 Legal Values:  list: SuiteOnAse=Small
+RSSPARI3 Datatype:      string
+RSSPARI3 Status:        Restart required
+--
+RSSPESD1 Configuration: workload
+RSSPESD1 Config Value:  NULL
+RSSPESD1 Run Value:     NULL
+RSSPESD1 Default Value: NULL
+RSSPESD1 Legal Values:  list: SuiteOnAse=Small
+RSSPESD1 Datatype:      string
+RSSPESD1 Status:        Restart required
+--
+RSSPODS1 Configuration: workload
+RSSPODS1 Config Value:  NULL
+RSSPODS1 Run Value:     NULL
+RSSPODS1 Default Value: NULL
+RSSPODS1 Legal Values:  list: SuiteOnAse=Small
+RSSPODS1 Datatype:      string
+RSSPODS1 Status:        Restart required
+--
+RSSPODS3 Configuration: workload
+RSSPODS3 Config Value:  NULL
+RSSPODS3 Run Value:     NULL
+RSSPODS3 Default Value: NULL
+RSSPODS3 Legal Values:  list: SuiteOnAse=Small
+RSSPODS3 Datatype:      string
+RSSPODS3 Status:        Restart required
+--
+RSSPODS5 Configuration: workload
+RSSPODS5 Config Value:  NULL
+RSSPODS5 Run Value:     NULL
+RSSPODS5 Default Value: NULL
+RSSPODS5 Legal Values:  list: SuiteOnAse=Small
+RSSPODS5 Datatype:      string
+RSSPODS5 Status:        Restart required
+--
+RSSPODSM Configuration: workload
+RSSPODSM Config Value:  NULL
+RSSPODSM Run Value:     NULL
+RSSPODSM Default Value: NULL
+RSSPODSM Legal Values:  list: SuiteOnAse=Small
+RSSPODSM Datatype:      string
+RSSPODSM Status:        Restart required
+--
+RSSPOSA1 Configuration: workload
+RSSPOSA1 Config Value:  NULL
+RSSPOSA1 Run Value:     NULL
+RSSPOSA1 Default Value: NULL
+RSSPOSA1 Legal Values:  list: SuiteOnAse=Small
+RSSPOSA1 Datatype:      string
+RSSPOSA1 Status:        Restart required
+--
+RSSPRMS1 Configuration: workload
+RSSPRMS1 Config Value:  NULL
+RSSPRMS1 Run Value:     NULL
+RSSPRMS1 Default Value: NULL
+RSSPRMS1 Legal Values:  list: SuiteOnAse=Small
+RSSPRMS1 Datatype:      string
+RSSPRMS1 Status:        Restart required
+--
+RSSPSIN2 Configuration: workload
+RSSPSIN2 Config Value:  NULL
+RSSPSIN2 Run Value:     NULL
+RSSPSIN2 Default Value: NULL
+RSSPSIN2 Legal Values:  list: SuiteOnAse=Small
+RSSPSIN2 Datatype:      string
+RSSPSIN2 Status:        Restart required
+--
+RSSTARI3 Configuration: workload
+RSSTARI3 Config Value:  NULL
+RSSTARI3 Run Value:     NULL
+RSSTARI3 Default Value: NULL
+RSSTARI3 Legal Values:  list: SuiteOnAse=Small
+RSSTARI3 Datatype:      string
+RSSTARI3 Status:        Restart required
+--
+RSSTSIN2 Configuration: workload
+RSSTSIN2 Config Value:  NULL
+RSSTSIN2 Run Value:     NULL
+RSSTSIN2 Default Value: NULL
+RSSTSIN2 Legal Values:  list: SuiteOnAse=Small
+RSSTSIN2 Datatype:      string
+RSSTSIN2 Status:        Restart required
+--
+RSSTSME1 Configuration: workload
+RSSTSME1 Config Value:  NULL
+RSSTSME1 Run Value:     NULL
+RSSTSME1 Default Value: NULL
+RSSTSME1 Legal Values:  list: SuiteOnAse=Small
+RSSTSME1 Datatype:      string
+RSSTSME1 Status:        Restart required

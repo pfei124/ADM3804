@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------
+Java-Environment:  DBSIERS06 @ gtunxlnv11384
+SYBASE:            /DBA/sybase/ASE-16.0SP04PL06
+JAVA_HOME:         /DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+SAP_JRE7:          /DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+SAP_JRE8:          /DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+SCC_JAVA_HOME:     /DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+COCKPIT_JAVA_HOME: 
+CLASSPATH:         /DBA/sybase/ASE-16.0SP03PL08/jConnect-16_0/classes/jconn4.jar:/DBA/sybase/ASE-16.0SP03PL08/jConnect-16_0/classes
+JDBC_HOME:         /DBA/sybase/ASE-16.0SP03PL08/jConnect-16_0
+

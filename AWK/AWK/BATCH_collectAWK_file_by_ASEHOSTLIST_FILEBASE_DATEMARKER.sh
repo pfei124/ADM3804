@@ -1,0 +1,15 @@
+#!/bin/bash
+LIST="$1"
+FILEBASE="$2"
+DATEMARKER="$3"
+
+
+while read ASEname HOSTname
+do
+  FILENAME="${DATEMARKER}__${ASEname}_${FILEBASE}"
+
+  echo "collecting $FILENAME from host $HOSTname (AWK folder of instance ${ASEname})"
+  ./collectAWK_file_by_ASE_HOST_FILEBASE_DATEMARKER.sh $ASEname $HOSTname $FILEBASE $DATEMARKER
+done < $LIST
+
+exit 0

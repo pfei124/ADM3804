@@ -1,0 +1,3 @@
+    inet 127.0.0.1/8 scope host lo
+    inet 172.26.188.244/28 brd 172.26.188.255 scope global vlan1777
+    inet 10.11.96.4/28 brd 10.11.96.15 scope global vlan3687

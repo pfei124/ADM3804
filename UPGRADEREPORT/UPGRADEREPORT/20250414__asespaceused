@@ -1,0 +1,486 @@
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSICAR9                                         6967                 5516
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERE7                                         2190                  859
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERG7                                         2123                 1060
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERQ7                                         1867                  613
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERQ8                                         9110                 7997
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS01                                        3302                 1323
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS02                                        5896                 3568
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS03                                        4779                 2858
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS04                                        2337                 1217
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS05                                        3839                 1904
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS06                                        3898                 2188
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS08                                       21557                15590
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS09                                        2488                  535
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS0B                                        2444                 1134
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS0C                                         478                   78
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS0D                                        1366                  149
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERS7                                         2725                 1604
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERSA                                         1754                  735
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERSQ3                                        4024                 2270
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERSQ5                                        4135                 1940
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERW04                                        5142                 1776
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERW08                                       20629                 8222
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERW3                                         1873                  659
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERW4                                         1906                   42
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERW8                                         7900                  666
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIERWF8                                        8580                  154
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIGHB1                                         4018                 3027
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODS1                                           34                   11
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODS3                                           49                   19
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODS4                                           90                   67
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODS5                                           30                   16
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODSJ                                          298                  140
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODSM                                          279                  176
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIODSN                                           19                    7
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIOSA1                                           39                    2
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIREPM                                          206                   94
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSIRMS1                                          278                   32
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSISME1                                         2216                  510
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSISME2                                          596                    9
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSISMED                                         1365                  370
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPARI3                                          841                  347
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPBMG2                                         2228                 1218
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPBMG3                                          275                  188
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPBMG8                                          472                  285
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPCAR9                                         8734                 5145
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERNS7                                        4335                 2837
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERNSA                                        1971                 1237
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS01                                        3972                 1710
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS02                                       10857                 5724
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS03                                        6764                 3621
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS04                                        2934                 1553
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS05                                        4570                 2211
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS06                                        4641                 2719
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS08                                       28858                20078
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS09                                        2540                  520
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS0B                                        2950                 1561
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS0C                                         495                  110
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERS0D                                        1356                  163
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERU08                                       14485                 8363
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERW4                                         4815                 1149
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERW7                                         2471                 1430
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERW8                                        23158                14745
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPERWN8                                       13929                 7633
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPESD1                                          911                  423
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPGHB1                                         6069                 2539
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPODS1                                          428                  162
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPODS3                                          951                  245
+
+(return status = 0)
+(return status = -6)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPODS5                                          465                  237
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPODSM                                         2140                 1412
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPODSN                                          320                  152
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPOSA1                                          768                  243
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPREPM                                         1309                  769
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPRMS1                                          192                   60
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPSIN2                                         1232                  550
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPSME1                                         4734                 1914
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPSME2                                          591                    6
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPSME5                                         1180                  840
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPSMEO                                            0                    0
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSPTRC1                                          414                  271
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTARI3                                          292                  124
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTBMG3                                          120                   94
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTBMG8                                          834                  191
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTCAR9                                         6709                 4369
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERS01                                        8591                 4401
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERS05                                        4278                 1832
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERS08                                       21838                 8837
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERS0B                                        4835                 1765
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERS1                                          790                  236
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERS7                                         4041                 2129
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERSD6                                        2800                 1507
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERW08                                         188                   78
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTERW8                                         9655                 8595
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTGHB1                                         2599                  196
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTODS0                                            8                    3
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTSIN2                                          239                  100
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTSME1                                         1550                  469
+
+(return status = 0)
+ ASEname                        total space alloc (GB) total data used (GB)
+ ------------------------------ ---------------------- --------------------
+ DBSTSME5                                          515                  193
+
+(return status = 0)

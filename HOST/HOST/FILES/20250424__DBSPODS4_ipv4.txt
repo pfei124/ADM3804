@@ -1,0 +1,6 @@
+    inet 127.0.0.1/8 scope host lo
+    inet 10.16.85.80/27 brd 10.16.85.95 scope global eth0
+    inet 10.16.85.77/27 brd 10.16.85.95 scope global secondary eth0:odsn
+    inet 10.16.85.75/27 brd 10.16.85.95 scope global secondary eth0:pods4
+    inet 172.25.251.151/28 brd 172.25.251.159 scope global eth1
+    inet 172.23.26.68/29 brd 172.23.26.71 scope global eth2

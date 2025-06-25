@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------
+Java-Environment:  DBSTERW8 @ gtunxlnv11878
+SYBASE:            /DBA/sybase/ASE-16.0SP04PL04
+JAVA_HOME:         
+SAP_JRE7:          /DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+SAP_JRE8:          
+SCC_JAVA_HOME:     /DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+COCKPIT_JAVA_HOME: 
+CLASSPATH:         
+JDBC_HOME:         
+

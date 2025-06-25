@@ -1,0 +1,100 @@
+AQT baseline optgoal
+AQT baseline optlevel
+CIPC large message pool size
+CIPC regular message pool size
+DMA object pool size
+FIPS login password encryption
+FM Enabled
+HADR connect timeout
+HADR distinct server name
+HADR login stall time
+HADR mode
+HADR primary check frequency
+HADR primary wait time
+HADR remote query timeout
+HCB index auto tuning
+HCB index memory pool size
+HCB index tuning interval
+LFB memory size
+NVCache Lazy Cleaner Pool Size
+SQL Perfmon Integration
+SQL batch capture
+abstract plan cache
+abstract plan dump
+abstract plan dynamic replace
+abstract plan load
+abstract plan replace
+abstract plan sharing
+additional network memory
+aggressive task stealing
+allocate max shared memory
+allow backward scans
+allow kerberos null password
+allow memory grow at startup
+allow nested triggers
+allow procedure grouping
+allow remote access
+allow resource limits
+allow sendmsg
+allow sql server async i/o
+allow statement rollback
+allow updates to system tables
+async poll timeout
+audit queue size
+audit trail type
+auditing
+auto query tuning
+automatic cluster takeover
+automatic master key access
+autotune rule history depth
+average cap size
+bind backupserver address
+builtin date strings
+bulk insert validation
+caps per ccb
+capture compression statistics
+capture missing statistics
+check password for digit
+cis bulk insert array size
+cis bulk insert batch size
+cis connect timeout
+cis cursor rows
+cis idle connection timeout
+cis packet size
+cis pushdown for HANA
+cis rpc handling
+cluster heartbeat interval
+cluster heartbeat retries
+cluster redundancy level
+cluster vote timeout
+column default cache size
+compression info pool size
+compression memory size
+config file version
+configuration file
+cost of a cpu unit
+cost of a logical io
+cost of a physical io
+cpu accounting flush interval
+cpu grace time
+curread change w/ open cursors
+current audit table
+deadlock checking period
+deadlock pipe active
+deadlock pipe max messages
+deadlock retries
+decompression row threshold
+default character set id
+default database size
+default exp_row_size percent
+default fill factor percent
+default language id
+default network packet size
+default sortorder id
+default textsize
+default unicode sortorder
+default xml sortorder
+deferred name resolution
+disable character set conversions
+disable disk mirroring
+disable jsagent core dump

@@ -1,0 +1,28 @@
+#!/bin/bash
+
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_currentCONFIGFILE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 make_currentRUNSERVERFILE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_currentPROPERTIESFILE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_crtRESOURCEFILE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_PORT.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_PAGESIZE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 make_standardASERESOURCEFILE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_serverCONFIGFILES.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_CRITICAL_SETTINGS.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_HELPROTECT.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 run_UPGRADE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 checksrv_preTEMPLATE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 checksrv_postTEMPLATE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 create_DATABASELIST.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 get_VERSION.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 dumpsrvWP_by_DBNAME.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 check_MIRRORS.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 checksrvWP_by_DBNAME.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 make_criticalBACKUP.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 check_SPACE.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 lock_SERVER.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 unlock_SERVER.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 bind_saTEMPDB2.bash
+./downloadUPGRADE_file_by_ASE_HOST_FILE.bash DBSPERS01 gtunxlnq04827 unbind_saTEMPDB2.bash
+
+exit 0

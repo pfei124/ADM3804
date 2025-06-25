@@ -1,0 +1,1105 @@
+running script check_ENV.bash on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSICAR9
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+running script check_ENV.bash on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERE7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERG7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERQ7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSIERQ8
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_97_64BIT
+
+running script check_ENV.bash on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSIERS01
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS02
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS03
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS04
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS05
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS06
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlng12461 ...
+z
+INFO    - Selection: sybase DBSIERS08
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS09
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+/DBA/sybase/ASE-16.0SP03PL08/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSIERS0B
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlng12461 ...
+z
+INFO    - Selection: sybase DBSIERS0C
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSIERS0D
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSIERS7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSIERSA
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlno20191 ...
+z
+INFO    - Selection: sybase DBSIERSQ3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnp20192 ...
+z
+INFO    - Selection: sybase DBSIERSQ5
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnm17511 ...
+z
+INFO    - Selection: sybase DBSIERW04
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlns17517 ...
+z
+INFO    - Selection: sybase DBSIERW08
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP03PL14
+
+
+/DBA/sybase/ASE-16.0SP03PL14/shared/SAPJRE-8_1_093_64BIT
+/DBA/sybase/ASE-16.0SP03PL14/shared/SAPJRE-8_1_093_64BIT
+
+running script check_ENV.bash on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERW3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERW4
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSIERW8
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnk19771 ...
+z
+INFO    - Selection: sybase DBSIERWF8
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSIGHB1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+running script check_ENV.bash on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIODS1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIODS3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODS4
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIODS5
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODSJ
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+
+/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODSM
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODSN
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+
+
+
+
+
+running script check_ENV.bash on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIOSA1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIREPM
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+
+
+
+
+
+running script check_ENV.bash on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIRMS1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnl08722 ...
+z
+INFO    - Selection: sybase DBSISME1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnb06528 ...
+z
+INFO    - Selection: sybase DBSISME2
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnw06991 ...
+z
+INFO    - Selection: sybase DBSISMED
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlvh08562 ...
+z
+INFO    - Selection: sybase DBSPARI3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPBMG2
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+running script check_ENV.bash on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPBMG3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPBMG8
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnr02618 ...
+z
+INFO    - Selection: sybase DBSPCAR9
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for tempdb !!!!!!        *
+* !!!!!  do not increase the logsegment for DCAR001  !!!!!!        *
+*     !! different types of storage, for that                      *
+*     increase database GHUBHIST in /DBD/DBSPCAR9/DATA*            *
+*     all other databases in /DBD/DBSPCAR9/FL_DATA*                *
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERNS7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERNSA
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS01
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlne02501 ...
+z
+INFO    - Selection: sybase DBSPERS02
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlne02501 ...
+z
+INFO    - Selection: sybase DBSPERS03
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS04
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlne02501 ...
+z
+INFO    - Selection: sybase DBSPERS05
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnr01344 ...
+z
+INFO    - Selection: sybase DBSPERS06
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+running script check_ENV.bash on host gtunxlnr01344 ...
+z
+INFO    - Selection: sybase DBSPERS08
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnk09709 ...
+z
+INFO    - Selection: sybase DBSPERS09
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+
+
+
+running script check_ENV.bash on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS0B
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS0C
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+running script check_ENV.bash on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERS0D
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERU08
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+
+
+
+running script check_ENV.bash on host gtunxlny11881 ...
+z
+INFO    - Selection: sybase DBSPERW4
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for all DATABASES !!!!!! *
+* !!!!!  because cut over to V11 Mach 2025                  !!!!!! *
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP04PL04
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host gtunxlny11881 ...
+z
+INFO    - Selection: sybase DBSPERW7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnx11880 ...
+z
+INFO    - Selection: sybase DBSPERW8
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for all DATABASES !!!!!! *
+* !!!!!  because cut over to V11 Mach 2025                  !!!!!! *
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlne20675 ...
+z
+INFO    - Selection: sybase DBSPERWN8
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlci09239 ...
+z
+INFO    - Selection: sybase DBSPESD1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnr02618 ...
+z
+INFO    - Selection: sybase DBSPGHB1
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for tempdb !!!!!!        *
+* !!!!!  do not increase the data or logsegment for DCAR001  !!!!!!*
+*                                                                  *
+********************************************************************
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+running script check_ENV.bash on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPODS1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPODS3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+running script check_ENV.bash on host gtunxlcj09240 ...
+z
+INFO    - Selection: sybase DBSPODS4
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPODS5
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlci09239 ...
+z
+INFO    - Selection: sybase DBSPODSM
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlcj09240 ...
+z
+INFO    - Selection: sybase DBSPODSN
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPOSA1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlcj09240 ...
+z
+INFO    - Selection: sybase DBSPREPM
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPRMS1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlvh08562 ...
+z
+INFO    - Selection: sybase DBSPSIN2
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlcw09461 ...
+z
+INFO    - Selection: sybase DBSPSME1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_092_64BIT
+
+running script check_ENV.bash on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPSME2
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+running script check_ENV.bash on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPSME5
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+running script check_ENV.bash on host gtunxlve07051 ...
+z
+INFO    - Selection: sybase DBSPSMEO
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+
+
+
+
+
+running script check_ENV.bash on host gtunxlvb06424 ...
+z
+INFO    - Selection: sybase DBSPTRC1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlvg08561 ...
+z
+INFO    - Selection: sybase DBSTARI3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSTBMG3
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnb06528 ...
+z
+INFO    - Selection: sybase DBSTBMG8
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSTCAR9
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+running script check_ENV.bash on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSTERS01
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSTERS05
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlng12461 ...
+z
+INFO    - Selection: sybase DBSTERS08
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSTERS0B
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSTERS1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSTERS7
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSTERSD6
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+
+
+running script check_ENV.bash on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSTERW08
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSTERW8
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL04
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL04/shared/SAPJRE-7_1_067_64BIT
+
+running script check_ENV.bash on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSTGHB1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlvg08561 ...
+z
+INFO    - Selection: sybase DBSTSIN2
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL06
+
+
+/DBA/sybase/ASE-16.0SP04PL06/shared/SAPJRE-8_1_097_64BIT
+/shared/SAPJRE-8_1_097_64BIT
+
+running script check_ENV.bash on host gtunxlnw06991 ...
+z
+INFO    - Selection: sybase DBSTSME1
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+
+/shared/SAPJRE-8_1_089_64BIT
+
+running script check_ENV.bash on host gtunxlnb06528 ...
+z
+INFO    - Selection: sybase DBSTSME5
+Setting environment...
+done
+/DBA/sybase/ASE-16.0SP04PL03
+
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+/DBA/sybase/ASE-16.0SP04PL03/shared/SAPJRE-8_1_089_64BIT
+
+

@@ -1,0 +1,2146 @@
+executing on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSICAR9
+Setting environment...
+done
+02.06.2025 13:05:29: dbccdb sybase sybdb DBSICAR9 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/13
+          2025/05/14
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 15 history entries found
+02.06.2025 13:05:29: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERE7
+Setting environment...
+done
+02.06.2025 13:05:31: dbccdb sybase sybdb DBSIERE7 started:
+INFO    - available history infomation
+          2024/08/28
+          2024/08/29
+INFO    - oldest history information is 278 days old
+INFO    - 2 history entries found
+02.06.2025 13:05:31: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERG7
+Setting environment...
+done
+02.06.2025 13:05:31: dbccdb sybase sybdb DBSIERG7 started:
+INFO    - available history infomation
+          2024/03/05
+          2024/06/27
+          2024/08/27
+INFO    - oldest history information is 454 days old
+INFO    - 3 history entries found
+02.06.2025 13:05:31: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERQ7
+Setting environment...
+done
+02.06.2025 13:05:32: dbccdb sybase sybdb DBSIERQ7 started:
+INFO    - available history infomation
+          2024/03/13
+          2024/08/27
+          2024/08/29
+INFO    - oldest history information is 446 days old
+INFO    - 3 history entries found
+02.06.2025 13:05:32: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSIERQ8
+Setting environment...
+done
+02.06.2025 13:05:34: dbccdb sybase sybdb DBSIERQ8 started:
+INFO    - available history infomation
+          2021/10/04
+          2021/10/05
+          2024/02/27
+          2024/09/02
+          2024/09/03
+INFO    - oldest history information is 1337 days old
+INFO    - 5 history entries found
+02.06.2025 13:05:34: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSIERS01
+Setting environment...
+done
+02.06.2025 11:05:36: dbccdb sybase sybdb DBSIERS01 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:36: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS02
+Setting environment...
+done
+02.06.2025 11:05:38: dbccdb sybase sybdb DBSIERS02 started:
+INFO    - available history infomation
+          2025/03/07
+          2025/03/14
+          2025/03/21
+          2025/03/28
+          2025/04/04
+          2025/04/11
+          2025/04/18
+          2025/04/25
+          2025/05/02
+          2025/05/09
+          2025/05/16
+          2025/05/23
+          2025/05/30
+INFO    - oldest history information is 87 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:38: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS03
+Setting environment...
+done
+02.06.2025 11:05:39: dbccdb sybase sybdb DBSIERS03 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:39: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS04
+Setting environment...
+done
+02.06.2025 11:05:40: dbccdb sybase sybdb DBSIERS04 started:
+INFO    - available history infomation
+          2025/03/07
+          2025/03/14
+          2025/03/21
+          2025/03/28
+          2025/04/04
+          2025/04/11
+          2025/04/18
+          2025/04/25
+          2025/05/02
+          2025/05/09
+          2025/05/16
+          2025/05/23
+          2025/05/30
+INFO    - oldest history information is 87 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:40: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS05
+Setting environment...
+done
+02.06.2025 11:05:41: dbccdb sybase sybdb DBSIERS05 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:41: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS06
+Setting environment...
+done
+02.06.2025 11:05:42: dbccdb sybase sybdb DBSIERS06 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:42: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng12461 ...
+z
+INFO    - Selection: sybase DBSIERS08
+Setting environment...
+done
+02.06.2025 11:05:44: dbccdb sybase sybdb DBSIERS08 started:
+INFO    - available history infomation
+          2025/02/11
+          2025/02/12
+          2025/03/08
+          2025/03/09
+          2025/04/12
+          2025/04/13
+          2025/05/10
+          2025/05/11
+INFO    - oldest history information is 111 days old
+INFO    - 8 history entries found
+02.06.2025 11:05:45: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11384 ...
+z
+INFO    - Selection: sybase DBSIERS09
+Setting environment...
+done
+02.06.2025 11:05:46: dbccdb sybase sybdb DBSIERS09 started:
+INFO    - available history infomation
+          2022/11/28
+          2025/02/13
+INFO    - oldest history information is 917 days old
+INFO    - 2 history entries found
+02.06.2025 11:05:46: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSIERS0B
+Setting environment...
+done
+02.06.2025 11:05:48: dbccdb sybase sybdb DBSIERS0B started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:48: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng12461 ...
+z
+INFO    - Selection: sybase DBSIERS0C
+Setting environment...
+done
+02.06.2025 11:05:49: dbccdb sybase sybdb DBSIERS0C started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:49: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSIERS0D
+Setting environment...
+done
+02.06.2025 11:05:50: dbccdb sybase sybdb DBSIERS0D started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:50: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSIERS7
+Setting environment...
+done
+02.06.2025 13:05:51: dbccdb sybase sybdb DBSIERS7 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:05:51: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSIERSA
+Setting environment...
+done
+02.06.2025 13:05:52: dbccdb sybase sybdb DBSIERSA started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:05:52: dbccdb for sybase ended with RC=0.
+executing on host gtunxlno20191 ...
+z
+INFO    - Selection: sybase DBSIERSQ3
+Setting environment...
+done
+02.06.2025 11:05:54: dbccdb sybase sybdb DBSIERSQ3 started:
+INFO    - available history infomation
+          2025/01/20
+INFO    - oldest history information is 133 days old
+INFO    - 1 history entries found
+02.06.2025 11:05:54: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnp20192 ...
+z
+INFO    - Selection: sybase DBSIERSQ5
+Setting environment...
+done
+02.06.2025 11:05:56: dbccdb sybase sybdb DBSIERSQ5 started:
+INFO    - available history infomation
+          2025/01/20
+INFO    - oldest history information is 133 days old
+INFO    - 1 history entries found
+02.06.2025 11:05:56: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnm17511 ...
+z
+INFO    - Selection: sybase DBSIERW04
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 11:05:58: dbccdb sybase sybdb DBSIERW04 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 11:05:58: dbccdb for sybase ended with RC=0.
+executing on host gtunxlns17517 ...
+z
+INFO    - Selection: sybase DBSIERW08
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 11:06:00: dbccdb sybase sybdb DBSIERW08 started:
+INFO    - available history infomation
+          2025/03/03
+          2025/03/04
+          2025/03/31
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/29
+          2025/04/30
+          2025/05/05
+          2025/05/06
+          2025/05/12
+          2025/05/13
+          2025/05/20
+          2025/05/26
+          2025/05/27
+INFO    - oldest history information is 91 days old
+INFO    - 15 history entries found
+02.06.2025 11:06:00: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERW3
+Setting environment...
+done
+02.06.2025 13:06:02: dbccdb sybase sybdb DBSIERW3 started:
+INFO    - available history infomation
+          2024/08/28
+          2025/03/12
+INFO    - oldest history information is 278 days old
+INFO    - 2 history entries found
+02.06.2025 13:06:02: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw11879 ...
+z
+INFO    - Selection: sybase DBSIERW4
+Setting environment...
+done
+02.06.2025 11:06:03: dbccdb sybase sybdb DBSIERW4 started:
+INFO    - available history infomation
+          2024/03/14
+          2024/08/28
+INFO    - oldest history information is 445 days old
+INFO    - 2 history entries found
+02.06.2025 11:06:03: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSIERW8
+Setting environment...
+done
+02.06.2025 13:06:04: dbccdb sybase sybdb DBSIERW8 started:
+INFO    - available history infomation
+          2021/10/04
+          2022/08/31
+          2023/03/15
+          2024/03/12
+INFO    - oldest history information is 1337 days old
+INFO    - 4 history entries found
+02.06.2025 13:06:04: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnk19771 ...
+z
+INFO    - Selection: sybase DBSIERWF8
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 13:06:05: dbccdb sybase sybdb DBSIERWF8 started:
+INFO    - available history infomation
+          2024/11/05
+          2024/11/06
+INFO    - oldest history information is 209 days old
+INFO    - 2 history entries found
+02.06.2025 13:06:06: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnk19771 ...
+z
+INFO    - Selection: sybase DBSTERWF8
+Setting environment...
+********************************************************************
+* !!!!!  do increase data by 51200MB      for Userdb !!!!!!        *
+* !!!!!  do not increase the logsegment              !!!!!!        *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 13:06:06: dbccdb sybase sybdb DBSTERWF8 started:
+INFO    - available history infomation
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 64 days old
+INFO    - 10 history entries found
+02.06.2025 13:06:06: dbccdb for sybase ended with RC=0.
+executing on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSIGHB1
+Setting environment...
+done
+02.06.2025 13:06:08: dbccdb sybase sybdb DBSIGHB1 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/14
+          2025/05/16
+          2025/05/18
+          2025/05/19
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 16 history entries found
+02.06.2025 13:06:08: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIODS1
+Setting environment...
+done
+02.06.2025 13:06:09: dbccdb sybase sybdb DBSIODS1 started:
+INFO    - available history infomation
+          2024/04/13
+          2024/04/20
+          2024/04/27
+          2024/05/04
+          2024/05/11
+          2024/05/18
+          2024/05/25
+          2024/06/01
+          2024/06/08
+          2024/06/15
+          2024/06/22
+          2024/06/29
+          2024/07/06
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 415 days old
+INFO    - 26 history entries found
+02.06.2025 13:06:09: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIODS3
+Setting environment...
+done
+02.06.2025 13:06:09: dbccdb sybase sybdb DBSIODS3 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:09: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODS4
+Setting environment...
+done
+02.06.2025 13:06:10: dbccdb sybase sybdb DBSIODS4 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:10: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIODS5
+Setting environment...
+done
+02.06.2025 13:06:11: dbccdb sybase sybdb DBSIODS5 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:11: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODSJ
+Setting environment...
+done
+02.06.2025 13:06:12: dbccdb sybase sybdb DBSIODSJ started:
+INFO    - available history infomation
+          2025/03/02
+          2025/03/03
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 92 days old
+INFO    - 15 history entries found
+02.06.2025 13:06:12: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODSM
+Setting environment...
+done
+02.06.2025 13:06:13: dbccdb sybase sybdb DBSIODSM started:
+INFO    - available history infomation
+          2025/03/10
+          2025/03/17
+          2025/03/24
+          2025/03/31
+          2025/04/07
+          2025/04/14
+          2025/04/21
+          2025/04/28
+          2025/05/05
+          2025/05/12
+          2025/05/19
+          2025/05/26
+          2025/06/02
+INFO    - oldest history information is 84 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:13: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIODSN
+Setting environment...
+done
+02.06.2025 13:06:13: dbccdb sybase sybdb DBSIODSN started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:13: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIOSA1
+Setting environment...
+done
+02.06.2025 13:06:14: dbccdb sybase sybdb DBSIOSA1 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:14: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf07026 ...
+z
+INFO    - Selection: sybase DBSIREPM
+Setting environment...
+done
+02.06.2025 13:06:15: dbccdb sybase sybdb DBSIREPM started:
+INFO    - available history infomation
+          2025/03/10
+          2025/03/17
+          2025/03/24
+          2025/03/31
+          2025/04/07
+          2025/04/14
+          2025/04/21
+          2025/04/28
+          2025/05/05
+          2025/05/12
+          2025/05/19
+          2025/05/26
+          2025/06/02
+INFO    - oldest history information is 84 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:15: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSIRMS1
+Setting environment...
+done
+02.06.2025 13:06:16: dbccdb sybase sybdb DBSIRMS1 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:16: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnl08722 ...
+z
+INFO    - Selection: sybase DBSISME1
+Setting environment...
+done
+02.06.2025 11:06:17: dbccdb sybase sybdb DBSISME1 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/10
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 14 history entries found
+02.06.2025 11:06:17: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnb06528 ...
+z
+INFO    - Selection: sybase DBSISME2
+Setting environment...
+done
+02.06.2025 11:06:18: dbccdb sybase sybdb DBSISME2 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/11
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 14 history entries found
+02.06.2025 11:06:18: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw06991 ...
+z
+INFO    - Selection: sybase DBSISMED
+Setting environment...
+done
+02.06.2025 11:06:19: dbccdb sybase sybdb DBSISMED started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:06:19: dbccdb for sybase ended with RC=0.
+executing on host gtunxlvh08562 ...
+z
+INFO    - Selection: sybase DBSPARI3
+Setting environment...
+done
+02.06.2025 13:06:20: dbccdb sybase sybdb DBSPARI3 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:20: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPBMG2
+Setting environment...
+done
+02.06.2025 11:06:21: dbccdb sybase sybdb DBSPBMG2 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:06:21: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPBMG3
+Setting environment...
+done
+02.06.2025 11:06:22: dbccdb sybase sybdb DBSPBMG3 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 11:06:22: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPBMG8
+Setting environment...
+done
+02.06.2025 11:06:23: dbccdb sybase sybdb DBSPBMG8 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:06:23: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnr02618 ...
+z
+INFO    - Selection: sybase DBSPCAR9
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for tempdb !!!!!!        *
+* !!!!!  do not increase the logsegment for DCAR001  !!!!!!        *
+*     !! different types of storage, for that                      *
+*     increase database GHUBHIST in /DBD/DBSPCAR9/DATA*            *
+*     all other databases in /DBD/DBSPCAR9/FL_DATA*                *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 13:06:24: dbccdb sybase sybdb DBSPCAR9 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/09
+          2025/03/15
+          2025/03/16
+          2025/03/22
+          2025/03/23
+          2025/03/29
+          2025/03/30
+          2025/04/05
+          2025/04/06
+          2025/04/12
+          2025/04/13
+          2025/04/19
+          2025/04/20
+          2025/04/26
+          2025/04/27
+          2025/05/03
+          2025/05/04
+          2025/05/10
+          2025/05/11
+          2025/05/17
+          2025/05/18
+          2025/05/24
+          2025/05/25
+          2025/05/31
+          2025/06/01
+INFO    - oldest history information is 86 days old
+INFO    - 26 history entries found
+02.06.2025 13:06:24: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERNS7
+Setting environment...
+done
+02.06.2025 13:06:26: dbccdb sybase sybdb DBSPERNS7 started:
+INFO    - available history infomation
+          2025/03/03
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 91 days old
+INFO    - 14 history entries found
+02.06.2025 13:06:26: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERNSA
+Setting environment...
+done
+02.06.2025 13:06:27: dbccdb sybase sybdb DBSPERNSA started:
+INFO    - available history infomation
+          2025/03/07
+          2025/03/09
+          2025/03/10
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 87 days old
+INFO    - 15 history entries found
+02.06.2025 13:06:27: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS01
+Setting environment...
+done
+02.06.2025 11:06:29: dbccdb sybase sybdb DBSPERS01 started:
+INFO    - available history infomation
+          2025/02/02
+          2025/02/08
+          2025/02/26
+          2025/03/02
+          2025/03/03
+          2025/03/08
+          2025/04/05
+          2025/04/06
+          2025/05/03
+          2025/05/04
+          2025/06/01
+INFO    - oldest history information is 120 days old
+INFO    - 11 history entries found
+02.06.2025 11:06:29: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne02501 ...
+z
+INFO    - Selection: sybase DBSPERS02
+Setting environment...
+done
+02.06.2025 11:06:32: dbccdb sybase sybdb DBSPERS02 started:
+INFO    - available history infomation
+          2025/02/10
+          2025/02/28
+          2025/03/01
+          2025/03/02
+          2025/03/09
+          2025/04/06
+          2025/04/07
+          2025/05/05
+INFO    - oldest history information is 112 days old
+INFO    - 8 history entries found
+02.06.2025 11:06:32: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne02501 ...
+z
+INFO    - Selection: sybase DBSPERS03
+Setting environment...
+done
+02.06.2025 11:06:34: dbccdb sybase sybdb DBSPERS03 started:
+INFO    - available history infomation
+          2025/02/03
+          2025/02/09
+          2025/03/03
+          2025/03/05
+          2025/03/06
+          2025/03/08
+          2025/03/10
+          2025/04/06
+          2025/04/07
+          2025/05/04
+          2025/05/05
+          2025/06/02
+INFO    - oldest history information is 119 days old
+INFO    - 12 history entries found
+02.06.2025 11:06:34: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS04
+Setting environment...
+done
+02.06.2025 11:06:35: dbccdb sybase sybdb DBSPERS04 started:
+INFO    - available history infomation
+          2025/02/02
+          2025/02/08
+          2025/03/02
+          2025/03/03
+          2025/03/04
+          2025/03/08
+          2025/04/05
+          2025/04/06
+          2025/05/03
+          2025/05/04
+          2025/06/01
+INFO    - oldest history information is 120 days old
+INFO    - 11 history entries found
+02.06.2025 11:06:35: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne02501 ...
+z
+INFO    - Selection: sybase DBSPERS05
+Setting environment...
+done
+02.06.2025 11:06:36: dbccdb sybase sybdb DBSPERS05 started:
+INFO    - available history infomation
+          2025/02/03
+          2025/02/09
+          2025/03/03
+          2025/03/05
+          2025/03/09
+          2025/03/10
+          2025/04/06
+          2025/04/07
+          2025/05/04
+          2025/05/05
+          2025/06/02
+INFO    - oldest history information is 119 days old
+INFO    - 11 history entries found
+02.06.2025 11:06:36: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnr01344 ...
+z
+INFO    - Selection: sybase DBSPERS06
+Setting environment...
+done
+02.06.2025 11:06:38: dbccdb sybase sybdb DBSPERS06 started:
+INFO    - available history infomation
+          2025/03/04
+          2025/04/06
+          2025/04/07
+          2025/05/05
+          2025/06/02
+INFO    - oldest history information is 90 days old
+INFO    - 5 history entries found
+02.06.2025 11:06:38: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnr01344 ...
+z
+INFO    - Selection: sybase DBSPERS08
+Setting environment...
+done
+02.06.2025 11:06:39: dbccdb sybase sybdb DBSPERS08 started:
+INFO    - available history infomation
+          2025/03/01
+          2025/03/03
+          2025/03/04
+          2025/04/08
+          2025/04/09
+          2025/04/10
+          2025/05/06
+          2025/05/08
+INFO    - oldest history information is 93 days old
+INFO    - 8 history entries found
+02.06.2025 11:06:39: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnk09709 ...
+z
+INFO    - Selection: sybase DBSPERS09
+Setting environment...
+done
+02.06.2025 11:06:41: dbccdb sybase sybdb DBSPERS09 started:
+INFO    - available history infomation
+          2025/03/02
+          2025/03/07
+          2025/03/08
+          2025/03/14
+          2025/03/15
+          2025/03/21
+          2025/03/22
+          2025/03/28
+          2025/03/29
+          2025/04/04
+          2025/04/06
+          2025/04/11
+          2025/04/18
+          2025/04/25
+          2025/05/02
+          2025/05/04
+          2025/05/09
+          2025/05/16
+          2025/05/23
+          2025/05/30
+          2025/06/01
+INFO    - oldest history information is 92 days old
+INFO    - 21 history entries found
+02.06.2025 11:06:41: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS0B
+Setting environment...
+done
+02.06.2025 11:06:42: dbccdb sybase sybdb DBSPERS0B started:
+INFO    - available history infomation
+          2025/04/05
+          2025/04/06
+          2025/05/03
+          2025/05/04
+          2025/06/01
+INFO    - oldest history information is 58 days old
+INFO    - 5 history entries found
+02.06.2025 11:06:42: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnq04827 ...
+z
+INFO    - Selection: sybase DBSPERS0C
+Setting environment...
+done
+02.06.2025 11:06:43: dbccdb sybase sybdb DBSPERS0C started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:06:43: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERS0D
+Setting environment...
+done
+02.06.2025 13:06:45: dbccdb sybase sybdb DBSPERS0D started:
+INFO    - available history infomation
+          2025/03/04
+          2025/03/05
+          2025/03/06
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 90 days old
+INFO    - 16 history entries found
+02.06.2025 13:06:45: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng07157 ...
+z
+INFO    - Selection: sybase DBSPERU08
+Setting environment...
+done
+02.06.2025 11:06:46: dbccdb sybase sybdb DBSPERU08 started:
+INFO    - available history infomation
+          2025/02/03
+          2025/03/01
+          2025/03/03
+          2025/04/05
+          2025/04/07
+          2025/05/03
+          2025/05/05
+INFO    - oldest history information is 119 days old
+INFO    - 7 history entries found
+02.06.2025 11:06:46: dbccdb for sybase ended with RC=0.
+executing on host gtunxlny11881 ...
+z
+INFO    - Selection: sybase DBSPERW4
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for all DATABASES !!!!!! *
+* !!!!!  because cut over to V11 Mach 2025                  !!!!!! *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 11:06:47: dbccdb sybase sybdb DBSPERW4 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 10 history entries found
+02.06.2025 11:06:47: dbccdb for sybase ended with RC=0.
+executing on host gtunxlny11881 ...
+z
+INFO    - Selection: sybase DBSPERW7
+Setting environment...
+done
+02.06.2025 13:06:48: dbccdb sybase sybdb DBSPERW7 started:
+INFO    - available history infomation
+          2025/03/07
+          2025/03/14
+          2025/03/21
+          2025/03/28
+          2025/04/04
+          2025/04/11
+          2025/04/18
+          2025/04/25
+          2025/05/02
+          2025/05/09
+          2025/05/16
+          2025/05/23
+          2025/05/30
+INFO    - oldest history information is 87 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:48: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnx11880 ...
+z
+INFO    - Selection: sybase DBSPERW8
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for all DATABASES !!!!!! *
+* !!!!!  because cut over to V11 Mach 2025                  !!!!!! *
+*                                                                  *
+********************************************************************
+done
+02.06.2025 11:06:50: dbccdb sybase sybdb DBSPERW8 started:
+INFO    - available history infomation
+          2025/03/12
+          2025/03/13
+          2025/05/14
+          2025/05/15
+INFO    - oldest history information is 82 days old
+INFO    - 4 history entries found
+02.06.2025 11:06:50: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne20675 ...
+z
+INFO    - Selection: sybase DBSPERWN8
+Setting environment...
+done
+02.06.2025 13:06:51: dbccdb sybase sybdb DBSPERWN8 started:
+INFO    - available history infomation
+          2024/12/12
+          2025/01/15
+INFO    - oldest history information is 172 days old
+INFO    - 2 history entries found
+02.06.2025 13:06:51: dbccdb for sybase ended with RC=0.
+executing on host gtunxlci09239 ...
+z
+INFO    - Selection: sybase DBSPESD1
+Setting environment...
+done
+02.06.2025 13:06:53: dbccdb sybase sybdb DBSPESD1 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/06/01
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:53: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnr02618 ...
+z
+INFO    - Selection: sybase DBSPGHB1
+Setting environment...
+********************************************************************
+* !!!!!  do not increase data and logsize for tempdb !!!!!!        *
+* !!!!!  do not increase the data or logsegment for DCAR001  !!!!!!*
+*                                                                  *
+********************************************************************
+done
+02.06.2025 13:06:54: dbccdb sybase sybdb DBSPGHB1 started:
+INFO    - available history infomation
+          2025/03/30
+          2025/03/31
+          2025/04/27
+          2025/05/27
+          2025/06/01
+INFO    - oldest history information is 64 days old
+INFO    - 5 history entries found
+02.06.2025 13:06:54: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPODS1
+Setting environment...
+done
+02.06.2025 13:06:55: dbccdb sybase sybdb DBSPODS1 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:55: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPODS3
+Setting environment...
+done
+02.06.2025 13:06:56: dbccdb sybase sybdb DBSPODS3 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:56: dbccdb for sybase ended with RC=0.
+executing on host gtunxlcj09240 ...
+z
+INFO    - Selection: sybase DBSPODS4
+Setting environment...
+done
+02.06.2025 13:06:57: dbccdb sybase sybdb DBSPODS4 started:
+INFO    - available history infomation
+          2022/11/20
+          2022/11/27
+          2022/12/04
+          2022/12/11
+          2022/12/18
+          2022/12/25
+          2023/01/01
+          2023/01/08
+          2023/01/15
+          2023/01/22
+          2023/01/23
+          2023/01/29
+          2023/02/05
+          2023/02/12
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 925 days old
+INFO    - 27 history entries found
+02.06.2025 13:06:57: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPODS5
+Setting environment...
+done
+02.06.2025 13:06:58: dbccdb sybase sybdb DBSPODS5 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:06:58: dbccdb for sybase ended with RC=0.
+executing on host gtunxlci09239 ...
+z
+INFO    - Selection: sybase DBSPODSM
+Setting environment...
+done
+02.06.2025 13:06:59: dbccdb sybase sybdb DBSPODSM started:
+INFO    - available history infomation
+          2025/03/02
+          2025/03/03
+          2025/03/09
+          2025/03/10
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/07
+          2025/04/13
+          2025/04/21
+          2025/04/27
+          2025/04/28
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 92 days old
+INFO    - 18 history entries found
+02.06.2025 13:06:59: dbccdb for sybase ended with RC=0.
+executing on host gtunxlcj09240 ...
+z
+INFO    - Selection: sybase DBSPODSN
+Setting environment...
+done
+02.06.2025 13:07:00: dbccdb sybase sybdb DBSPODSN started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:00: dbccdb for sybase ended with RC=0.
+executing on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPOSA1
+Setting environment...
+done
+02.06.2025 13:07:01: dbccdb sybase sybdb DBSPOSA1 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:01: dbccdb for sybase ended with RC=0.
+executing on host gtunxlcj09240 ...
+z
+INFO    - Selection: sybase DBSPREPM
+Setting environment...
+done
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPREPM/out/dbccdb_nestlog.20250602130702.47788.log: No such file or directory
+START   - dbccdb for sybase started
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPREPM/out/dbccdb_nestlog.20250602130702.47788.log: No such file or directory
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPREPM/out/dbccdb_nestlog.20250602130702.47788.log: No such file or directory
+INFO    - oldest history information is 85 days old
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPREPM/out/dbccdb_nestlog.20250602130702.47788.log: No such file or directory
+INFO    - 13 history entries found
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPREPM/out/dbccdb_nestlog.20250602130702.47788.log: No such file or directory
+END     - dbccdb for sybase ended with RC=0.
+executing on host gtunxlne10925 ...
+z
+INFO    - Selection: sybase DBSPRMS1
+Setting environment...
+done
+02.06.2025 13:07:03: dbccdb sybase sybdb DBSPRMS1 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:03: dbccdb for sybase ended with RC=0.
+executing on host gtunxlvh08562 ...
+z
+INFO    - Selection: sybase DBSPSIN2
+Setting environment...
+done
+02.06.2025 13:07:04: dbccdb sybase sybdb DBSPSIN2 started:
+INFO    - available history infomation
+          2025/03/02
+          2025/03/08
+          2025/03/09
+          2025/03/15
+          2025/03/16
+          2025/03/22
+          2025/03/29
+          2025/04/06
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/11
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 92 days old
+INFO    - 17 history entries found
+02.06.2025 13:07:04: dbccdb for sybase ended with RC=0.
+executing on host gtunxlcw09461 ...
+z
+INFO    - Selection: sybase DBSPSME1
+Setting environment...
+done
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPSME1/out/dbccdb_nestlog.20250602110705.13990.log: No such file or directory
+START   - dbccdb for sybase started
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPSME1/out/dbccdb_nestlog.20250602110705.13990.log: No such file or directory
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPSME1/out/dbccdb_nestlog.20250602110705.13990.log: No such file or directory
+INFO    - oldest history information is 85 days old
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPSME1/out/dbccdb_nestlog.20250602110705.13990.log: No such file or directory
+INFO    - 13 history entries found
+ERROR - framebase.WriteLog(): Cannot access program log /DBA/nest/sybase/DBSPSME1/out/dbccdb_nestlog.20250602110705.13990.log: No such file or directory
+END     - dbccdb for sybase ended with RC=0.
+executing on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPSME2
+Setting environment...
+done
+02.06.2025 11:07:06: dbccdb sybase sybdb DBSPSME2 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:07:07: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnd11548 ...
+z
+INFO    - Selection: sybase DBSPSME5
+Setting environment...
+done
+02.06.2025 11:07:07: dbccdb sybase sybdb DBSPSME5 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:07:08: dbccdb for sybase ended with RC=0.
+executing on host gtunxlve07051 ...
+z
+INFO    - Selection: sybase DBSPSMEO
+Setting environment...
+done
+02.06.2025 13:07:08: dbccdb sybase sybdb DBSPSMEO started:
+INFO    - available history infomation
+          2021/04/08
+          2023/01/18
+INFO    - oldest history information is 1516 days old
+INFO    - 2 history entries found
+02.06.2025 13:07:08: dbccdb for sybase ended with RC=0.
+executing on host gtunxlvb06424 ...
+z
+INFO    - Selection: sybase DBSPTRC1
+Setting environment...
+done
+02.06.2025 13:07:10: dbccdb sybase sybdb DBSPTRC1 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:10: dbccdb for sybase ended with RC=0.
+executing on host gtunxlvg08561 ...
+z
+INFO    - Selection: sybase DBSTARI3
+Setting environment...
+done
+02.06.2025 13:07:11: dbccdb sybase sybdb DBSTARI3 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:11: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnf10926 ...
+z
+INFO    - Selection: sybase DBSTBMG3
+Setting environment...
+done
+02.06.2025 11:07:12: dbccdb sybase sybdb DBSTBMG3 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:07:12: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnb06528 ...
+z
+INFO    - Selection: sybase DBSTBMG8
+Setting environment...
+done
+02.06.2025 11:07:13: dbccdb sybase sybdb DBSTBMG8 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/05/30
+          2025/06/01
+          2025/06/02
+INFO    - oldest history information is 85 days old
+INFO    - 15 history entries found
+02.06.2025 11:07:13: dbccdb for sybase ended with RC=0.
+executing on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSTCAR9
+Setting environment...
+done
+02.06.2025 13:07:14: dbccdb sybase sybdb DBSTCAR9 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/23
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/13
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 15 history entries found
+02.06.2025 13:07:14: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSTERS01
+Setting environment...
+done
+02.06.2025 11:07:16: dbccdb sybase sybdb DBSTERS01 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 13 history entries found
+02.06.2025 11:07:16: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSTERS05
+Setting environment...
+done
+02.06.2025 11:07:18: dbccdb sybase sybdb DBSTERS05 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:07:18: dbccdb for sybase ended with RC=0.
+executing on host gtunxlng12461 ...
+z
+INFO    - Selection: sybase DBSTERS08
+Setting environment...
+done
+02.06.2025 11:07:20: dbccdb sybase sybdb DBSTERS08 started:
+INFO    - available history infomation
+          2025/03/03
+          2025/03/09
+          2025/03/10
+          2025/03/16
+          2025/03/17
+          2025/03/23
+          2025/03/24
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 91 days old
+INFO    - 17 history entries found
+02.06.2025 11:07:20: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSTERS0B
+Setting environment...
+done
+02.06.2025 11:07:21: dbccdb sybase sybdb DBSTERS0B started:
+INFO    - available history infomation
+          2025/01/27
+INFO    - oldest history information is 126 days old
+INFO    - 1 history entries found
+02.06.2025 11:07:21: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSTERS1
+Setting environment...
+done
+02.06.2025 13:07:22: dbccdb sybase sybdb DBSTERS1 started:
+INFO    - available history infomation
+          2022/11/15
+          2022/11/16
+          2023/10/04
+          2025/01/21
+INFO    - oldest history information is 930 days old
+INFO    - 4 history entries found
+02.06.2025 13:07:22: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnu11383 ...
+z
+INFO    - Selection: sybase DBSTERS7
+Setting environment...
+done
+02.06.2025 13:07:23: dbccdb sybase sybdb DBSTERS7 started:
+INFO    - available history infomation
+          2025/02/10
+          2025/02/11
+INFO    - oldest history information is 112 days old
+INFO    - 2 history entries found
+02.06.2025 13:07:23: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnp04826 ...
+z
+INFO    - Selection: sybase DBSTERSD6
+Setting environment...
+done
+02.06.2025 11:07:24: dbccdb sybase sybdb DBSTERSD6 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 11:07:24: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSTERW08
+Setting environment...
+done
+02.06.2025 11:07:26: dbccdb sybase sybdb DBSTERW08 started:
+INFO    - available history infomation
+          2023/03/13
+          2023/04/14
+          2024/02/28
+INFO    - oldest history information is 812 days old
+INFO    - 3 history entries found
+02.06.2025 11:07:26: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnv11878 ...
+z
+INFO    - Selection: sybase DBSTERW8
+Setting environment...
+done
+02.06.2025 13:07:26: dbccdb sybase sybdb DBSTERW8 started:
+INFO    - available history infomation
+          2021/10/04
+          2024/02/26
+INFO    - oldest history information is 1337 days old
+INFO    - 2 history entries found
+02.06.2025 13:07:27: dbccdb for sybase ended with RC=0.
+executing on host degtlun5440 ...
+z
+INFO    - Selection: sybase DBSTGHB1
+Setting environment...
+done
+02.06.2025 13:07:28: dbccdb sybase sybdb DBSTGHB1 started:
+INFO    - available history infomation
+          2024/06/24
+          2025/04/24
+INFO    - oldest history information is 343 days old
+INFO    - 2 history entries found
+02.06.2025 13:07:28: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw12113 ...
+z
+INFO    - Selection: sybase DBSTODS0
+Setting environment...
+done
+02.06.2025 13:07:29: dbccdb sybase sybdb DBSTODS0 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:29: dbccdb for sybase ended with RC=0.
+executing on host gtunxlvg08561 ...
+z
+INFO    - Selection: sybase DBSTSIN2
+Setting environment...
+done
+02.06.2025 13:07:30: dbccdb sybase sybdb DBSTSIN2 started:
+INFO    - available history infomation
+          2025/03/09
+          2025/03/16
+          2025/03/23
+          2025/03/30
+          2025/04/06
+          2025/04/13
+          2025/04/20
+          2025/04/27
+          2025/05/04
+          2025/05/11
+          2025/05/18
+          2025/05/25
+          2025/06/01
+INFO    - oldest history information is 85 days old
+INFO    - 13 history entries found
+02.06.2025 13:07:30: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnw06991 ...
+z
+INFO    - Selection: sybase DBSTSME1
+Setting environment...
+done
+02.06.2025 11:07:31: dbccdb sybase sybdb DBSTSME1 started:
+INFO    - available history infomation
+          2025/03/08
+          2025/03/15
+          2025/03/22
+          2025/03/29
+          2025/04/05
+          2025/04/08
+          2025/04/09
+          2025/04/12
+          2025/04/19
+          2025/04/26
+          2025/05/03
+          2025/05/10
+          2025/05/17
+          2025/05/24
+          2025/05/31
+INFO    - oldest history information is 86 days old
+INFO    - 15 history entries found
+02.06.2025 11:07:31: dbccdb for sybase ended with RC=0.
+executing on host gtunxlnb06528 ...
+z
+INFO    - Selection: sybase DBSTSME5
+Setting environment...
+done
+02.06.2025 11:07:32: dbccdb sybase sybdb DBSTSME5 started:
+INFO    - available history infomation
+          2025/03/07
+          2025/03/14
+          2025/03/21
+          2025/03/28
+          2025/04/04
+          2025/04/11
+          2025/04/18
+          2025/04/25
+          2025/05/02
+          2025/05/09
+          2025/05/16
+          2025/05/23
+          2025/05/30
+          2025/06/02
+INFO    - oldest history information is 87 days old
+INFO    - 14 history entries found
+02.06.2025 11:07:32: dbccdb for sybase ended with RC=0.
