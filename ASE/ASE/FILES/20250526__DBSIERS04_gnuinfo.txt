@@ -1,4 +1,0 @@
-ASENAME:		DBSIERS04
-GNU_HOME:		/DBA/gnu/snk-1.5.8_x64
-PRODUCT_GNU_HOME:	/DBA/sybase/gnu_2.5_SAP
-\set histsize=50
