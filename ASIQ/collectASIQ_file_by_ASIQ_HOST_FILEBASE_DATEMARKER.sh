@@ -1,0 +1,12 @@
+#!/bin/bash
+ASIQ="$1"
+HOST="$2"
+FILEBASE="$3"
+DATEMARKER="$4"
+
+
+FILENAME="${DATEMARKER}__${ASIQ}_${FILEBASE}"
+
+scp ${HOST}:/WORK/DUMP/${ASIQ}/wp/ASIQ/${FILENAME} FILES/${FILENAME}
+
+exit 0
