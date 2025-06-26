@@ -1,0 +1,100 @@
+disable varbinary truncation
+disk i/o structures
+dsam memory size
+dtm detach timeout period
+dtm lock timeout period
+dump history filename
+dump on conditions
+dynamic SQL plan pinning
+dynamic allocation on demand
+early row send increment
+enable AQT compatibility mode
+enable Abstract Plan warnings
+enable DTM
+enable HA
+enable HCB index
+enable HugePages
+enable ISM
+enable LFB index
+enable async database init
+enable backupserver HA
+enable buffered io for load
+enable bulk inserts
+enable cis
+enable compatibility mode
+enable compression
+enable concurrent dump tran
+enable console logging
+enable deferred parallel
+enable delta dump tran
+enable dump history
+enable encrypted columns
+enable file access
+enable full-text search
+enable functionality group
+enable granular permissions
+enable hbc
+enable housekeeper GC
+enable hp posix async i/o
+enable i/o fencing
+enable in-memory row storage
+enable inline default sharing
+enable java
+enable job scheduler
+enable js restart logging
+enable large chunk elc
+enable large pool for load
+enable ldap user auth
+enable lightweight rvm
+enable literal autoparam
+enable lock remastering
+enable logins during recovery
+enable mem scale
+enable merge join
+enable metrics capture
+enable monitoring
+enable pam user auth
+enable pci
+enable permissive unicode
+enable plan sharing
+enable predicated privileges
+enable query tuning mem limit
+enable query tuning time limit
+enable rapidlog
+enable rapidtimer
+enable real time messaging
+enable rep agent threads
+enable resolve as owner
+enable row level access
+enable select into in tran
+enable semantic partitioning
+enable snmp
+enable sort-merge join and JTC
+enable spinlock monitoring
+enable sql debugger
+enable ssl
+enable sticky statistics
+enable stmt cache monitoring
+enable streamlined parallel
+enable surrogate processing
+enable transactional memory
+enable unicode conversions
+enable unicode normalization
+enable utility lvl 0 scan wait
+enable webservices
+enable workload analyzer
+enable xact coordination
+enable xml
+enforce dump configuration
+engine local cache percent
+engine memory log size
+errorlog archive holding limit
+errorlog pipe active
+errorlog pipe max messages
+errorlog size
+esp execution priority
+esp execution stacksize
+esp unload dll
+event buffers per engine
+event log computer name
+event logging

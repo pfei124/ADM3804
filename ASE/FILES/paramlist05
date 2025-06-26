@@ -1,0 +1,56 @@
+sigstack csmd min size
+sigstack min size
+simplified native access plan
+size of auto identity column
+size of global fixed heap
+size of process object heap
+size of shared class heap
+size of unilib cache
+snapshot isolation timeout
+solaris async i/o mode
+sproc optimize timeout limit
+sql server clock tick length
+sql text pipe active
+sql text pipe max messages
+stack guard size
+stack size
+start xp server during boot
+statement cache size
+statement pipe active
+statement pipe max messages
+statement statistics active
+stream rep msg channel timeout
+streamlined dynamic SQL
+strict dtm enforcement
+suppress js max task message
+suspend audit when device full
+syb_sendmsg port number
+sysimrslogs prealloc percent
+sysimrslogs prealloc size
+sysstatistics flush interval
+systemwide password expiration
+tape retention in days
+tcp no delay
+temp table statement caching
+text prefetch size
+threshold event max messages
+threshold event monitoring
+time slice
+total data cache size
+total logical memory
+total physical memory
+transfer utility memory size
+txn to pss ratio
+unified login required
+update statistics hashing
+upgrade version
+use security services
+user log cache queue size
+user log cache size
+user log cache spinlock ratio
+utility statistics hashing
+wait event timing
+wait on uncommitted insert
+workload manager cache size
+xact coordination interval
+xp_cmdshell context
